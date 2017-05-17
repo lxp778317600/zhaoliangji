@@ -1,0 +1,101 @@
+.one_ul a:nth-of-type(6) li{
+	border-bottom: 2px solid #FF6148;
+}
+.center_2{
+	width: 1000px;
+	height: 2100px;
+	margin: auto;
+	position: relative;
+	margin-top: 50px;
+}
+.center_right{
+	width: 300px;
+	height: 322px;
+	position: absolute;
+	right: 0;
+	    top: 50px;
+}
+.center_right_top{
+	width: 300px;
+	height: 150px;
+	background: url(../img/sliderright1.png) no-repeat;
+}
+.center_right_x{
+	width: 300px;
+	height: 150px;
+	margin-top: 22px;
+	background: url(../img/sliderright2.png) no-repeat;
+}
+.center_2 .center_2_ul_1{
+	width: 640px;
+	height: 1940px;
+	margin-left: 50px;
+	
+}
+.center_2 .center_2_ul_1 li{
+	width: 590px;
+	height: 165px;
+	border: 1px solid #EDEEF0;
+	    margin-top: 30px;
+}
+.center_2 .center_2_ul_1 li > p{
+	font-size: 18px;
+	margin-left: 10px;
+    margin-top: 10px;
+}
+.center_2_1{
+	width: 640px;
+	height: 135px;
+	margin-top: 10px;
+	
+}
+.center_2_1_left{
+	width: 100px;
+	height: 100px;
+	margin-top: 12px;
+	margin-left: 10px;
+	/*background: url(../img/puke_tu.jpg) no-repeat;*/
+	background-size: cover;
+	float: left;
+}
+.center_2_1_right{
+	width: 430px;
+	height:135px;
+	float: left;
+	margin-left: 30px;
+	/*background: black;*/
+}
+.center_2_1_right p{
+	text-indent: 2em;
+	font-size: 13px;
+	line-height: 23px;
+}
+.center_3{
+	width: 470px;
+	height: 40px;
+	margin-left: 50px;
+	margin-top: 50px;
+}
+.center_3 .center_2_ul_2{
+	width: 470px;
+	height: 40px;
+}
+.center_3 .center_2_ul_2 a li{
+	width: 33px;
+	height: 33px;
+	float: left;
+	border: 1px solid #DDDDDD;
+	border-right: none;
+	text-align: center;
+	line-height: 33px;
+	color: #FE6546;
+}
+.center_3 .center_2_ul_2 a:nth-child(12) li{
+	border: 1px solid #DDDDDD;
+	
+}
+.center_3 .center_2_ul_2 a li:hover{
+	color: white;
+	background: #FE6546;
+	border-color: #FE6546;
+}

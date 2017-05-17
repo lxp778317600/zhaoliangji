@@ -1,0 +1,137 @@
+.one_ul a:nth-of-type(4) li{
+	border-bottom: 2px solid #FF6148;
+}
+.top_end_s{
+	width: 100%;
+	min-width: 1300px;
+	height: 400px;
+	background: url(../img/review_banner.png) repeat-x center;
+	
+}
+.pa{
+	width: 100%;
+	min-width: 1300px;
+	height: 1530px;
+	background: #F6F6F6;
+}
+.bannar_one{
+	width: 920px;
+	height: 1376px;
+	padding-top: 30px;
+	margin: auto;
+	margin-top: 35px;
+}
+.zhong_2 {
+	width: 108px;
+	height: 226px;
+	background: url(../img/right_1_03.png);
+	float: right;
+	    position: fixed;
+    top: 40px;
+    right: 44px;
+}
+.zhong_2 a:nth-child(1) {
+	display: inline-block;
+	width: 65px;
+	height: 30px;
+	margin-top: 9px;
+	margin-left: 14px;
+}
+
+.zhong_2 a:nth-child(2) {
+	display: inline-block;
+	width: 17px;
+	height: 25px;
+	margin-top: 16px;
+	margin-left: 22px;
+}
+
+.bannar_one li{
+	width: 920px;
+	height: 140px;
+	margin-top: 30px;
+	border: 1px solid #EEEFF0;
+	background: #FEFEFE;
+}
+.bannar_one_left_1{
+	width: 130px;
+	height: 120px;
+	float: left;
+}
+.bannar_one_left{
+	width: 130px;
+	height: 120px;
+	margin-left: 45px;
+	float: left;
+}
+.bannar_one_left p:nth-child(1){
+	width: 65px;
+	height: 65px;
+	margin-left: 10px;
+	margin-top: 25px;
+	background: url(../img/default_avat.png) no-repeat;
+	background-size: cover;
+}
+.bannar_one_left p:nth-child(2){
+	margin-top: 5px;
+	font-size: 15px;
+}
+.bannar_one_center{
+	width: 400px;
+	height: 140px;
+	float: left;
+}
+.bannar_one_center p:nth-child(1){
+	
+	margin-top: 25px;
+}
+.bannar_one_center p{
+	font-size: 14px;
+	line-height: 40px;
+	margin-left: 30px;
+}
+.bannar_one_right {
+	font-size: 14px;
+	line-height: 40px;
+	float: right;
+	margin-top: 30px;
+	margin-right: 60px;
+}.bannar_one_right p{
+	line-height: 22px;
+}
+.ba_ul{
+	width: 1000px;
+	height: 35px;
+	margin: auto;
+}
+.bannar_two_2{
+	width: 470px;
+	height: 35px;
+	margin-top: 20px;
+	margin-left: 40px;
+}
+.bannar_two_2 li{
+	width: 32px;
+	height: 32px;
+	float: left;
+	text-align: center;
+	line-height: 32px;
+	color: #FE6546;
+	border: 1px solid #DDDDDD;
+	border-right: none;
+}
+.bannar_two_2 li:nth-child(1){
+	color: #000000;
+}
+.bannar_two_2 li:nth-child(13){
+	color: #000000;
+	border: 1px solid #DDDDDD;
+}
+.bannar_two_2 li:nth-child(10){
+	color: #000000;
+}
+.bannar_two_2 li:hover{
+	background: #FE6546;
+	border-color: #FE6546;
+	color: white;
+}
